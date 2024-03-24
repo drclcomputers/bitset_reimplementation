@@ -2,9 +2,13 @@ A reimplementaton of Bitset I coded over the weekend.
 
 
 input - sets given bit to 1
+
 reset - sets given bit to 0
+
 check - checks if given bit is 1
+
 show - prints the 1 bits (optional, you can set the start and end of the 'for' loop)
+
 count - counts the 1 bits (optional, you can set the start and end of the 'for' loop)
 
 
