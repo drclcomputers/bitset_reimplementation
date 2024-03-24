@@ -16,4 +16,4 @@ To use it:
 #include "bitset_0.3.h"
 
 
-I'll try to make it more efficient. The RAM usage is very similar to the original bitset, but some operations take a bit longer. Also, I'll try to rewrite it so I could use a dynamic array.
+I'll try to make it more efficient. The RAM usage is very similar to the original bitset, but some operations take a bit longer. Also, I'll try to rewrite it so I could use a dynamic array for better memory efficiency. 
